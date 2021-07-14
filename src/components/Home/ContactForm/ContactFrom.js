@@ -24,7 +24,9 @@ const ContactFrom = () => {
             <br />
             <textarea className="form-control" style={{height: '250px', width: '100%', resize: 'none'}} placeholder="Message*"></textarea>
             <br />
-            <button className="btn text-white px-5 py-2 ms-auto" style={{background: 'linear-gradient(90deg, #18D3B8, #4EDCEC)'}}>SUBMIT</button>
+           <div className="form-group text-center">
+           <button className="btn text-white px-5 py-2 main-button">SUBMIT</button>
+           </div>
           </form>
         </div>
       </div>

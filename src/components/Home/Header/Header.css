@@ -15,3 +15,7 @@
     background-color: #3A4256;
     z-index: -1;
 }
+.main-button{
+    color: white;
+    background: linear-gradient(90deg, #18D3B8, #4EDCEC);
+}

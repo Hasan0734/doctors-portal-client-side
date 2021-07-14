@@ -1,0 +1,13 @@
+.booking-card{
+   padding: 60px 30px;
+   margin-top: 60px;
+   text-align: center;
+   border: none;
+   box-shadow: 1px 2px 17px 0px #6f75754d;
+}
+.text-color{
+    color: #1CC7C1;
+}
+.react-calendar{
+    border: none;
+}

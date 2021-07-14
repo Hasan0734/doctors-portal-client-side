@@ -1,0 +1,11 @@
+.sidebar-area{
+    margin-top: 100px;
+}
+.dashboard-title{
+    margin-left: 30px;
+}
+.dashboard-title ul li{
+    
+    line-height: 60px;
+    color: white;
+}

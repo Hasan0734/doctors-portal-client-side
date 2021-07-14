@@ -15,7 +15,7 @@ const MakeAppointment = () => {
                     <h1 className="mb-5">Make an appointment <br /> Today</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis quae numquam dicta exercitationem eligendi corporis fuga natus minus! Aut, recusandae?</p>
                    <br />
-                    <button style={{background: 'linear-gradient(90deg, #18D3B8, #4EDCEC)'}} className="btn text-white px-3 py-2 mt-5">Learn More</button>
+                    <button  className="btn text-white px-3 py-2 mt-5 main-button">Learn More</button>
 
                 </div>
             </div>

@@ -143,7 +143,7 @@ const Footer = () => {
                   </div>
               </div>
               <p>Call Now</p>
-              <button className="btn text-white" style={{background: 'linear-gradient(90deg, #18D3B8, #4EDCEC)'}}>+880 17XXXXXXXX</button>
+              <button className="btn main-button">+880 17XXXXXXXX</button>
             </div>
           </div>
         </div>
